@@ -1,5 +1,9 @@
 <img src = "https://github.com/nxdun/nxdun/blob/0588730ae6bd54afc31e84c6ede49320e48606cb/header.png"/>
 
+```json
+Knowledge is power.
+```
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/nxdun/github-profile-trophy#about-rank)
 ## 🛠  Technologies and tools
 
