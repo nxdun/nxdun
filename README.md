@@ -2,14 +2,14 @@
 <div align="center" style="position: relative; overflow: hidden;">
     <div style="position: relative; width: 100%; height: 400px; background-image: url('https://github.com/nxdun/nxdun/blob/0588730ae6bd54afc31e84c6ede49320e48606cb/header.png'); background-size: cover; background-position: center; transform: perspective(1px) translateY(-2px); z-index: 1;">
     </div>
-    <blockquote style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <p align="center" style="text-align: center; font-size: 24px; font-weight: bold;">
-            <span style="color: #FF5733;">K</span><span style="color: #5EFF33;">n</span><span style="color: #33FFB0;">o</span><span style="color: #336CFF;">w</span><span style="color: #FF33F6;">l</span><span style="color: #FFC733;">e</span><span style="color: #FF5733;">d</span><span style="color: #5EFF33;">g</span><span style="color: #33FFB0;">e</span>
-            <span style="color: #336CFF;">i</span><span style="color: #FF33F6;">s</span>
-            <span style="color: #FF5733;">p</span><span style="color: #5EFF33;">o</span><span style="color: #33FFB0;">w</span><span style="color: #336CFF;">e</span><span style="color: #FF33F6;">r</span>
-            <span style="color: #FFC733;">.</span>
-        </p>
-    </blockquote>
+    <blockquote4px 6px rgba(0, 0, 0, 0.1);">
+    <p align="center" style="text-align: center; font-size: 24px; font-weight: bold;">
+        <span style="color: #FF5733; font-size: 30px;">K</span><span style="color: #5EFF33; font-size: 30px;">n</span><span style="color: #33FFB0; font-size: 30px;">o</span><span style="color: #336CFF; font-size: 30px;">w</span><span style="color: #FF33F6; font-size: 30px;">l</span><span style="color: #FFC733; font-size: 30px;">e</span><span style="color: #FF5733; font-size: 30px;">d</span><span style="color: #5EFF33; font-size: 30px;">g</span><span style="color: #33FFB0; font-size: 30px;">e</span>
+        <span style="color: #336CFF; font-size: 30px;">i</span><span style="color: #FF33F6; font-size: 30px;">s</span>
+        <span style="color: #FF5733; font-size: 30px;">p</span><span style="color: #5EFF33; font-size: 30px;">o</span><span style="color: #33FFB0; font-size: 30px;">w</span><span style="color: #336CFF; font-size: 30px;">e</span><span style="color: #FF33F6; font-size: 30px;">r</span>
+        <span style="color: #FFC733; font-size: 30px;">.</span>
+    </p>
+</blockquote>
 </div>
 
 <!-- GitHub Trophy and Technologies Section -->
@@ -22,14 +22,24 @@
 <!-- Technologies and Tools Section -->
 <h3 align="center">🛠 Technologies and Tools</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-    <!-- Add more badges for other technologies and tools -->
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git Badge">
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square" alt="Amazon AWS Badge">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="vs logo" title="vsc" height="25" /></br>
+    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat-square" alt="Eclipse IDE Badge">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square" alt="IntelliJ IDEA Badge">
 </p>
 
 <!-- Learning and Improvement Section -->
 <h3 align="center">📖 What I am currently learning / improving on</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
+    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB Badge">
+    <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="Express Badge">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" alt="React Badge">
+    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman Badge">
+    <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge">
     <!-- Add more badges for other learning topics -->
 </p>
 
@@ -37,7 +47,7 @@
 <h3 align="center">👾 What I am interested in learning at some point</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
-    <!-- Add more badges for other interests and learning topics -->
+    <img src="https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=flat" alt="AngularJS Badge">
 </p>
 
 <!-- Social Media and Contact Section -->
@@ -45,6 +55,9 @@
 <p align="center">
     <a href="https://stackoverflow.com/users/18157554/nadu-l">
         <img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />
+    </a>
+    <a href="https://instagram.com/nadu.lk">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square" alt="Instagram Badge">
     </a>
     <!-- Add more badges for other social media and contact links -->
 </p>
