@@ -2,8 +2,13 @@
 <div align="center" style="position: relative; overflow: hidden;">
     <div style="position: relative; width: 100%; height: 400px; background-image: url('https://github.com/nxdun/nxdun/blob/0588730ae6bd54afc31e84c6ede49320e48606cb/header.png'); background-size: cover; background-position: center; transform: perspective(1px) translateY(-2px); z-index: 1;">
     </div>
-    <blockquote>
-        <p align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2;"><em>Knowledge is power.</em></p>
+    <blockquote style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        <p align="center" style="text-align: center; font-size: 24px; font-weight: bold;">
+            <span style="color: #FF5733;">K</span><span style="color: #5EFF33;">n</span><span style="color: #33FFB0;">o</span><span style="color: #336CFF;">w</span><span style="color: #FF33F6;">l</span><span style="color: #FFC733;">e</span><span style="color: #FF5733;">d</span><span style="color: #5EFF33;">g</span><span style="color: #33FFB0;">e</span>
+            <span style="color: #336CFF;">i</span><span style="color: #FF33F6;">s</span>
+            <span style="color: #FF5733;">p</span><span style="color: #5EFF33;">o</span><span style="color: #33FFB0;">w</span><span style="color: #336CFF;">e</span><span style="color: #FF33F6;">r</span>
+            <span style="color: #FFC733;">.</span>
+        </p>
     </blockquote>
 </div>
 
@@ -43,6 +48,7 @@
     </a>
     <!-- Add more badges for other social media and contact links -->
 </p>
+
 
 
 
