@@ -1,14 +1,11 @@
-<!-- Header -->
-<div align="center">
-    <img src="https://github.com/nxdun/nxdun/blob/0588730ae6bd54afc31e84c6ede49320e48606cb/header.png" alt="Header Image" width="800">
-</div>
-
-<!-- Introduction -->
-<p align="center">
+<!-- Header with Parallax Effect -->
+<div align="center" style="position: relative; overflow: hidden;">
+    <div style="position: relative; width: 100%; height: 400px; background-image: url('https://github.com/nxdun/nxdun/blob/0588730ae6bd54afc31e84c6ede49320e48606cb/header.png'); background-size: cover; background-position: center; transform: perspective(1px) translateY(-2px); z-index: 1;">
+    </div>
     <blockquote>
-        <p><em>Knowledge is power.</em></p>
+        <p align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2;"><em>Knowledge is power.</em></p>
     </blockquote>
-</p>
+</div>
 
 <!-- GitHub Trophy and Technologies Section -->
 <div align="center">
