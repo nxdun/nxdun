@@ -1,23 +1,19 @@
 <!-- Header with Parallax Effect -->
-<div align="center" style="position: relative; overflow: hidden;">
-    <div style="position: relative; width: 100%; height: 400px; background-image: url('https://github.com/nxdun/nxdun/blob/0588730ae6bd54afc31e84c6ede49320e48606cb/header.png'); background-size: cover; background-position: center; transform: perspective(1px) translateY(-2px); z-index: 1;">
-    </div>
-    <blockquote4px 6px rgba(0, 0, 0, 0.1);">
-    <p align="center" style="text-align: center; font-size: 24px; font-weight: bold;">
-        <span style="color: #FF5733; font-size: 30px;">K</span><span style="color: #5EFF33; font-size: 30px;">n</span><span style="color: #33FFB0; font-size: 30px;">o</span><span style="color: #336CFF; font-size: 30px;">w</span><span style="color: #FF33F6; font-size: 30px;">l</span><span style="color: #FFC733; font-size: 30px;">e</span><span style="color: #FF5733; font-size: 30px;">d</span><span style="color: #5EFF33; font-size: 30px;">g</span><span style="color: #33FFB0; font-size: 30px;">e</span>
-        <span style="color: #336CFF; font-size: 30px;">i</span><span style="color: #FF33F6; font-size: 30px;">s</span>
-        <span style="color: #FF5733; font-size: 30px;">p</span><span style="color: #5EFF33; font-size: 30px;">o</span><span style="color: #33FFB0; font-size: 30px;">w</span><span style="color: #336CFF; font-size: 30px;">e</span><span style="color: #FF33F6; font-size: 30px;">r</span>
-        <span style="color: #FFC733; font-size: 30px;">.</span>
-    </p>
-</blockquote>
+```json
+                                                 Knowledge is power.
+```
 </div>
 
 <!-- GitHub Trophy and Technologies Section -->
+
 <div align="center">
     <a href="https://github.com/nxdun/github-profile-trophy#about-rank">
         <img src="https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="GitHub Trophy">
     </a>
 </div>
+
+```
+```
 
 <!-- Technologies and Tools Section -->
 <h3 align="center">🛠 Technologies and Tools</h3>
