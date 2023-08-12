@@ -1,4 +1,5 @@
 <!-- Header with Parallax Effect -->
+
 ```json
                                                  Knowledge is power.
 ```
@@ -12,16 +13,15 @@
     </a>
 </div>
 
-```
-```
+
 
 <!-- Technologies and Tools Section -->
 <h3 align="center">🛠 Technologies and Tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git Badge">
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square" alt="Amazon AWS Badge">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="vs logo" title="vsc" height="25" /></br>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" /></br>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="vs logo" title="vsc" height="25" />
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat-square" alt="Eclipse IDE Badge">
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square" alt="IntelliJ IDEA Badge">
 </p>
