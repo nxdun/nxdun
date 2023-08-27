@@ -1,7 +1,7 @@
 <!-- Header with Parallax Effect -->
 
 ```json
-                                                 Knowledge is power.
+                                                 In code we trust, knowledge empowers progress.
 ```
 </div>
 
