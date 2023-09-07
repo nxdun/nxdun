@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" alt="Postman Badge">
     <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku Badge">
-    <!-- Add more badges for other learning topics -->
 </p>
 
 <!-- Interests and Future Learning Section -->
@@ -55,7 +54,6 @@
     <a href="https://instagram.com/nadu.lk">
         <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square" alt="Instagram Badge">
     </a>
-    <!-- Add more badges for other social media and contact links -->
 </p>
 
 
