@@ -5,7 +5,6 @@
 ```
 </div>
 
-<!-- GitHub Trophy and Technologies Section -->
 
 <div align="center">
     <a href="https://github.com/nxdun/github-profile-trophy#about-rank">
