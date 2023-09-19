@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat-square" alt="IntelliJ IDEA Badge">
 </p>
 
-<!-- Learning and Improvement Section -->
 <h3 align="center">📖 What I am currently learning / improving on</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
