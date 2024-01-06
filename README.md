@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://github.com/nxdun/github-profile-trophy#about-rank">
-        <img src="https://github-profile-trophy.vercel.app/?username=Nanra&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="GitHub Trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Nxdun&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="GitHub Trophy">
     </a>
 </div>
 
