@@ -1,17 +1,16 @@
-<!-- Header with Parallax Effect!!! -->
 
 ```json
                                              In code we trust, knowledge empowers progress.
 ```
 </div>
 
-
-<div align="center">
+<!--
+<div >
     <a href="https://github.com/nxdun/github-profile-trophy#about-rank">
-        <img src="https://github-profile-trophy.vercel.app/?username=Nxdun&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="GitHub Trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Nxdun&theme=flat&no-bg=true&no-frame=true&column=1&margin-w=1&margin-h=1&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="GitHub Trophy">
     </a>
 </div>
-
+ -->
 
 
 <!-- Technologies and Tools Section -->
