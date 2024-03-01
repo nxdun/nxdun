@@ -1,8 +1,14 @@
+![](https://komarev.com/ghpvc/?username=nxdun&base=403) 
+![](https://img.shields.io/github/created-at/nxdun/nxdun)
+
+
+
+  
 
 ```json
                                              In code we trust, knowledge empowers progress...
 ```
-</div>
+
 
 <!--
 <div >
@@ -53,6 +59,8 @@
     </a>
 </p>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff0000&textBg=false&reversal=true&section=footer" width = "100%"/>
 
 
 
