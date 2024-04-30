@@ -1,9 +1,6 @@
-![](https://komarev.com/ghpvc/?username=nxdun&style=for-the-badge) 
-![](https://img.shields.io/github/created-at/nxdun/nxdun?&style=for-the-badge)
-
-
-
-  
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=nxdun&style=for-the-badge" alt="Profile Views">
+</div><br/>
 
 ```json
                                              In code we trust, knowledge empowers progress...
