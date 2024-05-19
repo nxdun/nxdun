@@ -53,12 +53,6 @@
 
 </p>
 
-<!-- Interests and Future Learning Section -->
-<h3 align="center">👾 What I am interested in learning at some point</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B&style=for-the-badge" alt="Flutter logo" title="Flutter" height="25" />
-    <img src="https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=for-the-badge" alt="AngularJS Badge">
-</p>
 
 <!-- Social Media and Contact Section -->
 <h3 align="center">🔍 Where to find me</h3>
