@@ -3,7 +3,7 @@
 </div><br/>
 
 ```json
-                                             In code we trust, knowledge empowers progress...
+                                             In code we trust, knowledge empowers progress..
 ```
 
 
