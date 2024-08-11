@@ -16,7 +16,7 @@
 -->
 
 
-<!-- Technologies and Tools Section -->
+<!-- Technologies and Tools Section.. -->
 <h3 align="center">🛠 Technologies and Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git Badge">
