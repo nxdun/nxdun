@@ -73,3 +73,4 @@
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+-   :key:Public GPG key: [`Nadu_Dev_0xEEBFC7AD_public.gpg`](https://github.com/nxdun.gpg)
