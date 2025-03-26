@@ -1,59 +1,36 @@
-
-
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=nxdun&style=for-the-badge" alt="Profile Views">
 </div>
 <br/>
 
-
-
 ```json
                                              Good health is like a crown ❤️.only the sick can see
 ```
 
-
-
 <!-- Technologies and Tools Section -->
-<h2 align="center">🛠 Technologies and Tools</h2>
+<h2 align="center">🛠 Core Expertise</h2>
 <p align="center">
-    <strong>Core Expertise:</strong><br/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-    <img src ="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge">
-    <strong><br/>Backend Development:</strong><br/>
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js Badge">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=cshrp&logoColor=white" alt="C# Badge">
-    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot Badge">
-    <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ Badge">
-    <strong><br/>Frontend Development:</strong><br/>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript Badge">
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff" alt="WebAssembly Badge">
     <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native Badge">
-    <strong><br/>DevOps and Tools:</strong><br/>
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge">
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
-    <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff" alt="gitlab Badge">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-    <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge">
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=fff" alt="confluence Badge">
-    <strong><br/>Databases:</strong><br/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Badge">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql Badge">
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqllite Badge">
-    <strong><br/>Additional Tools:</strong><br/>
-    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
-    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse Badge">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino Badge">
-    <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka Badge">
-    <img src="https://img.shields.io/badge/Microservices-Architecture-yellow?&style=for-the-badge" alt="Microservices Badge">
-
 </p>
+<h2 align="center">🚀 Some Of My Public Projects</h2>
+
+| Project Name | Description | Tech Stack |
+|-------------|-------------|------------|
+| [**Portfolio**](https://github.com/nxdun/Portfolio) |[nadun.me](https://nadun.me/) :  My Design Showcase | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![AI ChatBot](https://img.shields.io/badge/AI_ChatBot-blue?style=for-the-badge&logo=dependabot) |
+| [**AI Agents Dashboard**](https://github.com/nxdun/ai-agents-dashboard) | Dashboard for managing My Multi Agentic System | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff) |
+| [**HealthWizard**](https://github.com/nxdun/HealthWizard) | Complete Application for urban area hospitals | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| [**LMS Microservice**](https://github.com/nxdun/lms-microservice) | Distributed microservice-based educational platform | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| [**HungerBusters**](https://github.com/nxdun/HungerBusters) | React Native Mobile Application for zero hunger | ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Stripe](https://img.shields.io/badge/Stripe-5851DD?style=for-the-badge&logo=stripe&logoColor=%23F7DF1E) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| [**Movie Theatre Management System**](https://github.com/nxdun/Movie-theatre-management-system) | Complete System For managing a whole movie theatre | ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-%230db7ed.svg?style=for-the-badge&logo=api&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-5851DD?style=for-the-badge&logo=stripe&logoColor=%23F7DF1E) |
+| [**CodeWizard**](https://github.com/nxdun/CodeWizard) | Modern code analyzer and flowchart generator for given code snippet | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Microservices](https://img.shields.io/badge/Microservices-%23FF6600.svg?style=for-the-badge&logo=microservices&logoColor=white) |
+| [**NuusBreakfast**](https://github.com/nxdun/NuusBreakfast) | ASP.NET Web API, MVC design | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-%230db7ed.svg?style=for-the-badge&logo=dotnet&logoColor=white) |
+| [**MemeApp**](https://github.com/nxdun/MemeApp) | A simple .NET application using migrations | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) |
+| [**NASA-Spacia**](https://github.com/nxdun/NASA-Spacia) | Full-stack application using NASA API | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff) ![NASA API](https://img.shields.io/badge/NASA%20API-%230db7ed.svg?style=for-the-badge&logo=nasa&logoColor=white) |
 
 <h2 align="center">🔍 Where to find me</h2>
 <p align="center">
