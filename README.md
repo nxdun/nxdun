@@ -43,4 +43,4 @@
 </p>
 
 <!-- Footer Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff0000&textBg=false&reversal=true&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff0000&textBg=false&reversal=true&section=footer" width="100%"/> -->
