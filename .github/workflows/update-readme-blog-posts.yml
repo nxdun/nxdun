@@ -30,17 +30,18 @@ jobs:
 
       - name: Update README blog posts from RSS
         run: |
-          .github/scripts/update-readme-blog-posts.sh
+            chmod +x .github/scripts/update-readme-blog-posts.sh
+            .github/scripts/update-readme-blog-posts.sh
 
       - name: Commit and push README changes
         run: |
-          if git diff --quiet -- README.md; then
+            if git diff --quiet -- README.md; then
             echo "No README changes detected; skipping commit."
             exit 0
-          fi
+            fi
 
-          git config user.name "nxdun"
-          git config user.email "inbox.nadun@gmail.com"
-          git add README.md
-          git commit -m "automation : update recent blog posts"
-          git push
+            git config user.name "nxdun"
+            git config user.email "inbox.nadun@gmail.com"
+            git add README.md
+            git commit -m "automation : update recent blog posts"
+            git push
