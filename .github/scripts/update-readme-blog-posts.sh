@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
-
+# ---
 # Updates README.md blog section between fixed markers using the most recent RSS items.
 # This script intentionally modifies only the content between marker lines.
-
+# ---
 RSS_URL="https://nadzu.me/rss.xml"
 README_FILE="README.md"
 START_MARKER="<!-- nadzu-blog-post-start -->"
