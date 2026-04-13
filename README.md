@@ -19,20 +19,116 @@
 
 <h2 align="center"> Some Of My Public Projects</h2>
 
-| 🚀 Project | 📝 Details |
-| :--- | :--- |
-| [**Portfolio**](https://github.com/nxdun/Portfolio) | <table><tr><th align="left">Stack</th><td>Astro, TS, TailwindCSS, SQLite, GitHub Actions</td></tr><tr><th align="left">Deployment</th><td><a href="https://nadzu.me/">nadzu.me</a> (Cloudflare DNS, Workers, D1, KV, GTM)</td></tr></table> |
-| [**Rust Backend**](https://github.com/nxdun/rust-codebase) | <table><tr><th align="left">Stack</th><td>TOKIO, YTDLP, FFMPEG, FFPROBE</td></tr><tr><th align="left">Deployment</th><td><a href="https://api.nadzu.me/health">api.nadzu.me</a> (Terraform, Docker, ghcr)</td></tr></table> |
-| [**Docker Warp Proxy**](https://github.com/nxdun/docker-warp-proxy) | <table><tr><th align="left">Stack</th><td>Docker, Cloudflare Warp Proxy</td></tr><tr><th align="left">Deployment</th><td><a href="https://hub.docker.com/r/nxdun/cloudflare-warp-proxy">Docker Hub image</a> (1k+ pulls)</td></tr></table> |
-| [**LMS Microservice**](https://github.com/nxdun/lms-microservice) | <table><tr><th align="left">Stack</th><td>Kubernetes, Docker, GCP, MongoDB, Express.js, Spring Boot, Flask, Stripe</td></tr><tr><th align="left">Deployment</th><td><a href="https://lms-core-microservice.vercel.app/">Frontend App</a> (Vercel, Next.js, TailwindCSS)</td></tr></table> |
-| [**HealthWizard**](https://github.com/nxdun/HealthWizard) | <table><tr><th align="left">Stack</th><td>React, Redux, MongoDB, Express.js, Node.js, JWT, RBAC</td></tr></table> |
-| [**AI Agents Dashboard**](https://github.com/nxdun/ai-agents-dashboard) | <table><tr><th align="left">Details</th><td>Dashboard for managing My Multi Agentic System</td></tr></table> |
-| [**HungerBusters**](https://github.com/nxdun/HungerBusters) | <table><tr><th align="left">Stack</th><td>React Native</td></tr></table> |
-| [**Movie Theatre System**](https://github.com/nxdun/Movie-theatre-management-system) | <table><tr><th align="left">Details</th><td>Complete system for managing a whole movie theatre</td></tr></table> |
-| [**CodeWizard**](https://github.com/nxdun/CodeWizard) | <table><tr><th align="left">Details</th><td>Modern code analyzer and flowchart generator</td></tr></table> |
-| [**NuusBreakfast**](https://github.com/nxdun/NuusBreakfast) | <table><tr><th align="left">Stack</th><td>ASP.NET</td></tr></table> |
-| [**MemeApp**](https://github.com/nxdun/MemeApp) | <table><tr><th align="left">Stack</th><td>.NET</td></tr></table> |
-| [**NASA-Spacia**](https://github.com/nxdun/NASA-Spacia) | <table><tr><th align="left">Details</th><td>Full-stack application using NASA API</td></tr></table> |
+<table>
+  <thead>
+    <tr>
+      <th align="left">🚀 Project</th>
+      <th align="left">📝 Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nxdun/Portfolio"><strong>Portfolio</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>Astro, TS, TailwindCSS, SQLite, GitHub Actions</td></tr>
+          <tr><th align="left">Deployment</th><td><a href="https://nadzu.me/">nadzu.me</a> (Cloudflare DNS, Workers, D1, KV, GTM)</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/rust-codebase"><strong>Rust Backend</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>TOKIO, YTDLP, FFMPEG, FFPROBE</td></tr>
+          <tr><th align="left">Deployment</th><td><a href="https://api.nadzu.me/health">api.nadzu.me</a> (Terraform, Docker, ghcr)</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/docker-warp-proxy"><strong>Docker Warp Proxy</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>Docker, Cloudflare Warp Proxy</td></tr>
+          <tr><th align="left">Deployment</th><td><a href="https://hub.docker.com/r/nxdun/cloudflare-warp-proxy">Docker Hub image</a> (1k+ pulls)</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/lms-microservice"><strong>LMS Microservice</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>Kubernetes, Docker, GCP, MongoDB, Express.js, Spring Boot, Flask, Stripe</td></tr>
+          <tr><th align="left">Deployment</th><td><a href="https://lms-core-microservice.vercel.app/">Frontend App</a> (Vercel, Next.js, TailwindCSS)</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/HealthWizard"><strong>HealthWizard</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>React, Redux, MongoDB, Express.js, Node.js, JWT, RBAC</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/ai-agents-dashboard"><strong>AI Agents Dashboard</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Details</th><td>Dashboard for managing My Multi Agentic System</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/HungerBusters"><strong>HungerBusters</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>React Native</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/Movie-theatre-management-system"><strong>Movie Theatre System</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Details</th><td>Complete system for managing a whole movie theatre</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/CodeWizard"><strong>CodeWizard</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Details</th><td>Modern code analyzer and flowchart generator</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/NuusBreakfast"><strong>NuusBreakfast</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>ASP.NET</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/MemeApp"><strong>MemeApp</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Stack</th><td>.NET</td></tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/NASA-Spacia"><strong>NASA-Spacia</strong></a></td>
+      <td>
+        <table>
+          <tr><th align="left">Details</th><td>Full-stack application using NASA API</td></tr>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">🔍 Where to find me</h2>
 <p align="center">
