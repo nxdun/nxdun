@@ -3,34 +3,112 @@
 </div>
 <br/>
 
-```json
-                                             Good health is like a crown ❤️.only the sick can see
-```
+<h2 align="center">
+<code>Good health is like a crown ❤️.only the sick can see</code>
+</h2>
+<h2 align="center"> Some Of My Blog Posts</h2>
 
-<!-- Technologies and Tools Section -->
-<h2 align="center">🛠 Core Expertise</h2>
-<p align="center">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
-    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native Badge">
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS Badge">
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
-</p>
-<h2 align="center">🚀 Some Of My Public Projects</h2>
+<!-- Automated: Do Not Edit between these markers including the markers themselves -->
+<!-- nadzu-blog-post-start -->
+| Date | Title | Link |
+| --- | --- | --- |
+| 2026-MAR-31 | Cross-platform build Docker mirror new pose, x86, arm a shuttle | [Read](https://nadzu.me/posts/docker-cross-platform-build/) |
+| 2026-MAR-09 | Nadzu Backend Changelog - 2026 Updates | [Read](https://nadzu.me/posts/rust-backend-changelog/) |
+| 2026-FEB-13 | Portfolio Changelog - 2026 Updates | [Read](https://nadzu.me/posts/portfolio-changelog/) |
+<!-- nadzu-blog-post-end -->
 
-| Project Name | Description | Tech Stack |
-|-------------|-------------|------------|
-| [**Portfolio**](https://github.com/nxdun/Portfolio) |[nadzu.me](https://nadzu.me/) :  My Design Showcase | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![AI ChatBot](https://img.shields.io/badge/AI_ChatBot-blue?style=for-the-badge&logo=dependabot) |
-| [**AI Agents Dashboard**](https://github.com/nxdun/ai-agents-dashboard) | Dashboard for managing My Multi Agentic System | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff) |
-| [**HealthWizard**](https://github.com/nxdun/HealthWizard) | Complete Application for urban area hospitals | ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| [**LMS Microservice**](https://github.com/nxdun/lms-microservice) | Distributed microservice-based educational platform | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| [**HungerBusters**](https://github.com/nxdun/HungerBusters) | React Native Mobile Application for zero hunger | ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Stripe](https://img.shields.io/badge/Stripe-5851DD?style=for-the-badge&logo=stripe&logoColor=%23F7DF1E) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
-| [**Movie Theatre Management System**](https://github.com/nxdun/Movie-theatre-management-system) | Complete System For managing a whole movie theatre | ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-%230db7ed.svg?style=for-the-badge&logo=api&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-5851DD?style=for-the-badge&logo=stripe&logoColor=%23F7DF1E) |
-| [**CodeWizard**](https://github.com/nxdun/CodeWizard) | Modern code analyzer and flowchart generator for given code snippet | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Microservices](https://img.shields.io/badge/Microservices-%23FF6600.svg?style=for-the-badge&logo=microservices&logoColor=white) |
-| [**NuusBreakfast**](https://github.com/nxdun/NuusBreakfast) | ASP.NET Web API, MVC design | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-%230db7ed.svg?style=for-the-badge&logo=dotnet&logoColor=white) |
-| [**MemeApp**](https://github.com/nxdun/MemeApp) | A simple .NET application using migrations | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white) |
-| [**NASA-Spacia**](https://github.com/nxdun/NASA-Spacia) | Full-stack application using NASA API | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff) ![NASA API](https://img.shields.io/badge/NASA%20API-%230db7ed.svg?style=for-the-badge&logo=nasa&logoColor=white) |
+<h2 align="center"> Some Of My Public Projects</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Stack</th>
+      <th align="left">Deployment / Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nxdun/Portfolio"><strong>Portfolio</strong></a></td>
+      <td>Personal portfolio, blog, and online toolkit.</td>
+      <td>Astro, TypeScript, TailwindCSS, SQLite, GitHub Actions</td>
+      <td><a href="https://nadzu.me/">nadzu.me</a> <br/> Cloudflare DNS, Workers, D1, KV, GTM</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/rust-codebase"><strong>Rust Backend</strong></a></td>
+      <td>Backend service for video processing and APIs.</td>
+      <td>Tokio, yt-dlp, ffmpeg, ffprobe</td>
+      <td><a href="https://api.nadzu.me/health">api.nadzu.me</a> <br/> Terraform, Docker, ghcr</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/docker-warp-proxy"><strong>Docker Warp Proxy</strong></a></td>
+      <td>Lightweight WARP proxy container for secure traffic routing.</td>
+      <td>Docker, Cloudflare Warp Proxy</td>
+      <td><a href="https://hub.docker.com/r/nxdun/cloudflare-warp-proxy">Docker Hub</a> <br/> 1k+ pulls</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/lms-microservice"><strong>LMS Microservice</strong></a></td>
+      <td>Distributed educational platform with multi-service architecture.</td>
+      <td>Kubernetes, Docker, GCP, MongoDB, Express.js, Spring Boot, Flask, Stripe</td>
+      <td><a href="https://lms-core-microservice.vercel.app/">Frontend App</a> <br/> Vercel, Next.js, TailwindCSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/RagChitChat"><strong>RAG Chatbot</strong></a></td>
+      <td>RAG chatbot with PDF and PowerPoint processing.</td>
+      <td>Python, ChromaDB, Ollama, Haystack</td>
+      <td>Document QA + chatbot using PDF/PPT ingestion.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/HealthWizard"><strong>HealthWizard</strong></a></td>
+      <td>Hospital management fullstack application.</td>
+      <td>React, Redux, MongoDB, Express.js, Node.js, JWT, RBAC</td>
+      <td>Healthcare workflow and role-based access.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/ai-agents-dashboard"><strong>AI Agents Dashboard</strong></a></td>
+      <td>Dashboard for managing agent workflows and tools.</td>
+      <td>React dashboard</td>
+      <td>Multi-agent system monitoring.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/HungerBusters"><strong>HungerBusters</strong></a></td>
+      <td>Mobile app for supporting hunger relief efforts.</td>
+      <td>React Native</td>
+      <td>Zero hunger outreach app.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/Movie-theatre-management-system"><strong>Movie Theatre System</strong></a></td>
+      <td>Cinema management platform for end-to-end operations.</td>
+      <td>Full-stack theatre management</td>
+      <td>Theatre booking + operations system.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/CodeWizard"><strong>CodeWizard</strong></a></td>
+      <td>Code analyzer and flowchart generation tool.</td>
+      <td>Code analysis tooling</td>
+      <td>Modern code snippet intelligence.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/NuusBreakfast"><strong>NuusBreakfast</strong></a></td>
+      <td>ASP.NET Web API with MVC architecture.</td>
+      <td>ASP.NET</td>
+      <td>Backend API and MVC design.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/MemeApp"><strong>MemeApp</strong></a></td>
+      <td>Simple .NET application with migrations support.</td>
+      <td>.NET</td>
+      <td>Data-driven application example.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/NASA-Spacia"><strong>NASA-Spacia</strong></a></td>
+      <td>Full-stack application using NASA APIs.</td>
+      <td>Full-stack app</td>
+      <td>NASA API integration.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center">🔍 Where to find me</h2>
 <p align="center">
