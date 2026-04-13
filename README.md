@@ -21,10 +21,10 @@
 
 | 🚀 Project | 📝 Description, Tech Stack & Links |
 | :--- | :--- |
-| [**Portfolio**](https://github.com/nxdun/Portfolio) | My Portfolio (5k+ Daily Visitors), Blogger, Online Toolkit <br/> **Stack:** Astro, TS, TailwindCSS, SQLite, GitHub Actions <br/> ─── <br/> **Links:** [nadzu.me](https://nadzu.me/) *(Cloudflare DNS, Workers, D1, KV, GTM)* |
-| [**Rust Backend**](https://github.com/nxdun/rust-codebase) | Rust Backend handling video processing <br/> **Stack:** TOKIO, YTDLP, FFMPEG, FFPROBE <br/> ─── <br/> **Links:** [api.nadzu.me](https://api.nadzu.me/health) *(Terraform, Docker, ghcr)* |
-| [**Docker Warp Proxy**](https://github.com/nxdun/docker-warp-proxy) | BusyBox WARP Proxy used by the Rust backend <br/> **Stack:** Docker, Cloudflare Warp Proxy <br/> ─── <br/> **Links:** [Docker Hub image](https://hub.docker.com/r/nxdun/cloudflare-warp-proxy) *(1k+ pulls)* |
-| [**LMS Microservice**](https://github.com/nxdun/lms-microservice) | Distributed educational platform (7+ Services) <br/> **Stack:** Kubernetes, Docker, GCP, MongoDB, Express.js, Spring Boot, Flask, Stripe <br/> ─── <br/> **Links:** [Frontend App](https://lms-core-microservice.vercel.app/) *(Vercel, Next.js, TailwindCSS)* |
+| [**Portfolio**](https://github.com/nxdun/Portfolio) | My Portfolio (5k+ Daily Visitors), Blogger, Online Toolkit <br/> **Stack:** Astro, TS, TailwindCSS, SQLite, GitHub Actions <hr/> **Deployment:** [nadzu.me](https://nadzu.me/) *(Cloudflare DNS, Workers, D1, KV, GTM)* |
+| [**Rust Backend**](https://github.com/nxdun/rust-codebase) | Rust Backend handling video processing <br/> **Stack:** TOKIO, YTDLP, FFMPEG, FFPROBE <hr/> **Deployment:** [api.nadzu.me](https://api.nadzu.me/health) *(Terraform, Docker, ghcr)* |
+| [**Docker Warp Proxy**](https://github.com/nxdun/docker-warp-proxy) | BusyBox WARP Proxy used by the Rust backend <br/> **Stack:** Docker, Cloudflare Warp Proxy <hr/> **Deployment:** [Docker Hub image](https://hub.docker.com/r/nxdun/cloudflare-warp-proxy) *(1k+ pulls)* |
+| [**LMS Microservice**](https://github.com/nxdun/lms-microservice) | Distributed educational platform (7+ Services) <br/> **Stack:** Kubernetes, Docker, GCP, MongoDB, Express.js, Spring Boot, Flask, Stripe <hr/> **Deployment:** [Frontend App](https://lms-core-microservice.vercel.app/) *(Vercel, Next.js, TailwindCSS)* |
 | [**HealthWizard**](https://github.com/nxdun/HealthWizard) | Fullstack application for urban area hospitals <br/> **Stack:** React, Redux, MongoDB, Express.js, Node.js, JWT, RBAC |
 | [**AI Agents Dashboard**](https://github.com/nxdun/ai-agents-dashboard) | Dashboard for managing My Multi Agentic System |
 | [**HungerBusters**](https://github.com/nxdun/HungerBusters) | Mobile application for zero hunger <br/> **Stack:** React Native |
