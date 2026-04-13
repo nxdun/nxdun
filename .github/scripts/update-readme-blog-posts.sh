@@ -1,9 +1,23 @@
 #!/usr/bin/env bash
 set -euo pipefail
-# ---
-# Updates README.md blog section between fixed markers using the most recent RSS items.
+# -----------------------------------------------------------------------------
+# File: .github/scripts/update-readme-blog-posts.sh
+# Purpose: Refresh the README.md blog section using the latest RSS feed entries.
+# Summary:
+#   - Fetch RSS content from the configured RSS_URL
+#   - Build a Markdown table of recent blog posts
+#   - Replace only the section between the README marker lines
+# Requirements:
+#   - curl
+#   - perl
+#   - awk
+#   - GNU date
+# Usage:
+#   .github/scripts/update-readme-blog-posts.sh
+# -----------------------------------------------------------------------------
 # This script intentionally modifies only the content between marker lines.
-# ---
+# -----------------------------------------------------------------------------
+
 RSS_URL="https://nadzu.me/rss.xml"
 README_FILE="README.md"
 START_MARKER="<!-- nadzu-blog-post-start -->"
@@ -55,7 +69,7 @@ format_date() {
   local pub_date="$1"
   local formatted=""
 
-  if formatted=$(date -u -d "$pub_date" '+%Y:%B:%d' 2>/dev/null); then
+  if formatted=$(date -u -d "$pub_date" '+%Y-%b-%d' 2>/dev/null | tr '[:lower:]' '[:upper:]'); then
     printf '%s' "$formatted"
   else
     # Keep workflow resilient if the feed has an unexpected date format.
