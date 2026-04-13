@@ -1,0 +1,46 @@
+name: Update README Blog Posts
+
+on:
+  schedule:
+    - cron: "0 0 */3 * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - nadun/prototype
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Block unauthorized manual dispatch
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/github-script@v9
+        with:
+          script: |
+            if (context.actor !== 'nxdun') {
+              core.setFailed('Only the repository owner (nxdun) can run workflow_dispatch for this workflow.');
+            }
+
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Update README blog posts from RSS
+        run: |
+          .github/scripts/update-readme-blog-posts.sh
+
+      - name: Commit and push README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes detected; skipping commit."
+            exit 0
+          fi
+
+          git config user.name "nxdun"
+          git config user.email "inbox.nadun@gmail.com"
+          git add README.md
+          git commit -m "automation : update recent blog posts"
+          git push
