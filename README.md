@@ -32,74 +32,74 @@
     <tr>
       <td><a href="https://github.com/nxdun/Portfolio"><strong>Portfolio</strong></a></td>
       <td>Personal portfolio, blog, and online toolkit.</td>
-      <td>• Astro<br/>• TypeScript<br/>• TailwindCSS<br/>• SQLite<br/>• GitHub Actions</td>
-      <td>• <a href="https://nadzu.me/">nadzu.me</a><br/>• Cloudflare DNS<br/>• Workers<br/>• D1<br/>• KV<br/>• GTM</td>
+      <td>Astro, TypeScript, TailwindCSS, SQLite, GitHub Actions</td>
+      <td><a href="https://nadzu.me/">nadzu.me</a> <br/> Cloudflare DNS, Workers, D1, KV, GTM</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/rust-codebase"><strong>Rust Backend</strong></a></td>
       <td>Backend service for video processing and APIs.</td>
-      <td>• TOKIO<br/>• YTDLP<br/>• FFMPEG<br/>• FFPROBE</td>
-      <td>• <a href="https://api.nadzu.me/health">api.nadzu.me</a><br/>• Terraform<br/>• Docker<br/>• ghcr</td>
+      <td>TOKIO, YTDLP, FFMPEG, FFPROBE</td>
+      <td><a href="https://api.nadzu.me/health">api.nadzu.me</a> <br/> Terraform, Docker, ghcr</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/docker-warp-proxy"><strong>Docker Warp Proxy</strong></a></td>
       <td>Lightweight WARP proxy container for secure traffic routing.</td>
-      <td>• Docker<br/>• Cloudflare Warp Proxy</td>
-      <td>• <a href="https://hub.docker.com/r/nxdun/cloudflare-warp-proxy">Docker Hub</a><br/>• 1k+ pulls</td>
+      <td>Docker, Cloudflare Warp Proxy</td>
+      <td><a href="https://hub.docker.com/r/nxdun/cloudflare-warp-proxy">Docker Hub</a> <br/> 1k+ pulls</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/lms-microservice"><strong>LMS Microservice</strong></a></td>
       <td>Distributed educational platform with multi-service architecture.</td>
-      <td>• Kubernetes<br/>• Docker<br/>• GCP<br/>• MongoDB<br/>• Express.js<br/>• Spring Boot<br/>• Flask<br/>• Stripe</td>
-      <td>• <a href="https://lms-core-microservice.vercel.app/">Frontend App</a><br/>• Vercel<br/>• Next.js<br/>• TailwindCSS</td>
+      <td>Kubernetes, Docker, GCP, MongoDB, Express.js, Spring Boot, Flask, Stripe</td>
+      <td><a href="https://lms-core-microservice.vercel.app/">Frontend App</a> <br/> Vercel, Next.js, TailwindCSS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/HealthWizard"><strong>HealthWizard</strong></a></td>
       <td>Hospital management fullstack application.</td>
-      <td>• React<br/>• Redux<br/>• MongoDB<br/>• Express.js<br/>• Node.js<br/>• JWT<br/>• RBAC</td>
-      <td>• Healthcare workflow<br/>• Role-based access</td>
+      <td>React, Redux, MongoDB, Express.js, Node.js, JWT, RBAC</td>
+      <td>Healthcare workflow and role-based access.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/ai-agents-dashboard"><strong>AI Agents Dashboard</strong></a></td>
       <td>Dashboard for managing agent workflows and tools.</td>
-      <td>• React</td>
-      <td>• Multi-agent system monitoring</td>
+      <td>React dashboard</td>
+      <td>Multi-agent system monitoring.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/HungerBusters"><strong>HungerBusters</strong></a></td>
       <td>Mobile app for supporting hunger relief efforts.</td>
-      <td>• React Native</td>
-      <td>• Zero hunger outreach app</td>
+      <td>React Native</td>
+      <td>Zero hunger outreach app.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/Movie-theatre-management-system"><strong>Movie Theatre System</strong></a></td>
       <td>Cinema management platform for end-to-end operations.</td>
-      <td>• Full-stack theatre management</td>
-      <td>• Theatre booking<br/>• Operations system</td>
+      <td>Full-stack theatre management</td>
+      <td>Theatre booking + operations system.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/CodeWizard"><strong>CodeWizard</strong></a></td>
       <td>Code analyzer and flowchart generation tool.</td>
-      <td>• Code analysis tooling</td>
-      <td>• Modern code snippet intelligence</td>
+      <td>Code analysis tooling</td>
+      <td>Modern code snippet intelligence.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/NuusBreakfast"><strong>NuusBreakfast</strong></a></td>
       <td>ASP.NET Web API with MVC architecture.</td>
-      <td>• ASP.NET</td>
-      <td>• Backend API<br/>• MVC design</td>
+      <td>ASP.NET</td>
+      <td>Backend API and MVC design.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/MemeApp"><strong>MemeApp</strong></a></td>
       <td>Simple .NET application with migrations support.</td>
-      <td>• .NET</td>
-      <td>• Data-driven application example</td>
+      <td>.NET</td>
+      <td>Data-driven application example.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/NASA-Spacia"><strong>NASA-Spacia</strong></a></td>
       <td>Full-stack application using NASA APIs.</td>
-      <td>• Full-stack app</td>
-      <td>• NASA API integration</td>
+      <td>Full-stack app</td>
+      <td>NASA API integration.</td>
     </tr>
   </tbody>
 </table>
