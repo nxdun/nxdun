@@ -38,7 +38,7 @@
     <tr>
       <td><a href="https://github.com/nxdun/rust-codebase"><strong>Rust Backend</strong></a></td>
       <td>Backend service for video processing and APIs.</td>
-      <td>TOKIO, YTDLP, FFMPEG, FFPROBE</td>
+      <td>Tokio, yt-dlp, ffmpeg, ffprobe</td>
       <td><a href="https://api.nadzu.me/health">api.nadzu.me</a> <br/> Terraform, Docker, ghcr</td>
     </tr>
     <tr>
@@ -52,6 +52,12 @@
       <td>Distributed educational platform with multi-service architecture.</td>
       <td>Kubernetes, Docker, GCP, MongoDB, Express.js, Spring Boot, Flask, Stripe</td>
       <td><a href="https://lms-core-microservice.vercel.app/">Frontend App</a> <br/> Vercel, Next.js, TailwindCSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nxdun/RagChitChat"><strong>RAG Chatbot</strong></a></td>
+      <td>RAG chatbot with PDF and PowerPoint processing.</td>
+      <td>Python, ChromaDB, Ollama, Haystack</td>
+      <td>Document QA + chatbot using PDF/PPT ingestion.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/HealthWizard"><strong>HealthWizard</strong></a></td>
