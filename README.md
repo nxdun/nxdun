@@ -12,9 +12,9 @@
 <!-- nadzu-blog-post-start -->
 | Date | Title | Link |
 | --- | --- | --- |
+| 2026-MAY-12 | Nadzu Backend Changelog - 2026 Updates | [Read](https://nadzu.me/posts/rust-backend-changelog/) |
 | 2026-MAY-10 | Rust Docker Builds Under 3 Minutes: ZSTD Builders, Multi-Stage Pipelines, and Multi-Platform OCI Images | [Read](https://nadzu.me/posts/docker-cross-platform-build/) |
 | 2026-APR-19 | Tooling Docs: Using Query Parameters for State Persistence | [Read](https://nadzu.me/posts/tool-query-params/) |
-| 2026-MAR-09 | Nadzu Backend Changelog - 2026 Updates | [Read](https://nadzu.me/posts/rust-backend-changelog/) |
 | 2026-FEB-13 | Portfolio Changelog - 2026 Updates | [Read](https://nadzu.me/posts/portfolio-changelog/) |
 <!-- nadzu-blog-post-end -->
 
