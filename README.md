@@ -6,7 +6,7 @@
 <h2 align="center">
 <code>Good health is like a crown ❤️.only the sick can see</code>
 </h2>
-<h2 align="center"> Some Of My Blog Posts</h2>
+<h2 align="center"> My Blog Posts </h2>
 
 <!-- Automated: Do Not Edit between these markers including the markers themselves -->
 <!-- nadzu-blog-post-start -->
@@ -17,9 +17,9 @@
 | 2026-MAY-10 | Rust Docker Builds Under 3 Minutes: ZSTD Builders, Multi-Stage Pipelines, and Multi-Platform OCI Images | [Read](https://nadzu.me/posts/docker-cross-platform-build/) |
 | 2026-APR-19 | Tooling Docs: Using Query Parameters for State Persistence | [Read](https://nadzu.me/posts/tool-query-params/) |
 <!-- nadzu-blog-post-end -->
-
-<h2 align="center"> Some Of My Public Projects</h2>
-
+<br/>
+<details>
+<summary>🤍 View My Project Showcase Table </summary>
 <table>
   <thead>
     <tr>
@@ -111,15 +111,18 @@
   </tbody>
 </table>
 
-<h2 align="center">🔍 Where to find me</h2>
+</details>
+
+<!-- <h2 align="center">🔍 Where to find me</h2>
 <p align="center">
     <a href="https://stackoverflow.com/users/18157554/nadu-l">
         <img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16&style=for-the-badge" alt="Stack Overflow Badge">
     </a>
+</br>
     <a href="https://instagram.com/nadu.lk">
         <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge">
     </a>
-</p>
+</p> -->
 
 <!-- Footer Section -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff0000&textBg=false&reversal=true&section=footer" width="100%"/> -->
