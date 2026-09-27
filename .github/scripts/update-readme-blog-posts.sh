@@ -18,7 +18,7 @@ set -euo pipefail
 # This script intentionally modifies only the content between marker lines.
 # -----------------------------------------------------------------------------
 
-RSS_URL="https://nadzu.me/rss.xml"
+RSS_URL="https://nadzu.tech/rss.xml"
 README_FILE="README.md"
 START_MARKER="<!-- nadzu-blog-post-start -->"
 END_MARKER="<!-- nadzu-blog-post-end -->"

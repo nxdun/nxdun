@@ -10,12 +10,6 @@
 
 <!-- Automated: Do Not Edit between these markers including the markers themselves -->
 <!-- nadzu-blog-post-start -->
-| Date | Title | Link |
-| --- | --- | --- |
-| 2026-AUG-05 | Portfolio Changelog - 2026 Updates | [Read](https://nadzu.me/posts/portfolio-changelog/) |
-| 2026-MAY-21 | Nadzu Backend Changelog - 2026 Updates | [Read](https://nadzu.me/posts/rust-backend-changelog/) |
-| 2026-MAY-10 | Rust Docker Builds Under 3 Minutes: ZSTD Builders, Multi-Stage Pipelines, and Multi-Platform OCI Images | [Read](https://nadzu.me/posts/docker-cross-platform-build/) |
-| 2026-APR-19 | Tooling Docs: Using Query Parameters for State Persistence | [Read](https://nadzu.me/posts/tool-query-params/) |
 <!-- nadzu-blog-post-end -->
 <br/>
 <details>
@@ -34,13 +28,13 @@
       <td><a href="https://github.com/nxdun/Portfolio"><strong>Portfolio</strong></a></td>
       <td>Personal portfolio, blog, and online toolkit.</td>
       <td>Astro, TypeScript, TailwindCSS, SQLite, GitHub Actions</td>
-      <td><a href="https://nadzu.me/">nadzu.me</a> <br/> Cloudflare DNS, Workers, D1, KV, GTM</td>
+      <td><a href="https://nadzu.tech/">nadzu.tech</a> <br/> Cloudflare DNS, Workers, D1, KV, GTM</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/rust-codebase"><strong>Rust Backend</strong></a></td>
       <td>Backend service for video processing and APIs.</td>
       <td>Tokio, yt-dlp, ffmpeg, ffprobe</td>
-      <td><a href="https://api.nadzu.me/health">api.nadzu.me</a> <br/> Terraform, Docker, ghcr</td>
+      <td><a href="https://api.nadzu.tech/health">api.nadzu.tech</a> <br/> Terraform, Docker, ghcr</td>
     </tr>
     <tr>
       <td><a href="https://github.com/nxdun/docker-warp-proxy"><strong>Docker Warp Proxy</strong></a></td>
